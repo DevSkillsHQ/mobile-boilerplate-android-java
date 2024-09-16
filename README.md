@@ -5,7 +5,7 @@ A backbone for your coding challenge that includes a simple Android app in Java 
 ## Tech Stack
 
 - Java 8 
-- Gradle 4.2
+- Gradle 8.1
 
 ## Getting started
 
