@@ -1,4 +1,4 @@
-package co.devskills.mobile_boilerplate_android_java;
+package io.alvalabs.mobile_boilerplate_android_java;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("co.devskills.mobile_boilerplate_android_java", appContext.getPackageName());
+        assertEquals("io.alvalabs.mobile_boilerplate_android_java", appContext.getPackageName());
     }
 }

@@ -6,7 +6,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "co.devskills.mobile_boilerplate_android_java"
+        applicationId "io.alvalabs.mobile_boilerplate_android_java"
         minSdk 21
         targetSdk 34
         versionCode 1

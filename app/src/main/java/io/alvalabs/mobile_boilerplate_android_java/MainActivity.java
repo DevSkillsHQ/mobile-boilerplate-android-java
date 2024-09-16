@@ -1,4 +1,4 @@
-package co.devskills.mobile_boilerplate_android_java;
+package io.alvalabs.mobile_boilerplate_android_java;
 
 import android.os.Bundle;
 
@@ -10,7 +10,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import co.devskills.mobile_boilerplate_android_java.databinding.ActivityMainBinding;
+import io.alvalabs.mobile_boilerplate_android_java.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
