@@ -1,4 +1,4 @@
-package co.devskills.mobile_boilerplate_android_java;
+package io.alvalabs.mobile_boilerplate_android_java;
 
 import org.junit.Test;
 

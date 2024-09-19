@@ -1,4 +1,4 @@
-package co.devskills.mobile_boilerplate_android_java.ui.home;
+package io.alvalabs.mobile_boilerplate_android_java.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,8 +12,8 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import co.devskills.mobile_boilerplate_android_java.R;
-import co.devskills.mobile_boilerplate_android_java.databinding.FragmentHomeBinding;
+import io.alvalabs.mobile_boilerplate_android_java.R;
+import io.alvalabs.mobile_boilerplate_android_java.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
 

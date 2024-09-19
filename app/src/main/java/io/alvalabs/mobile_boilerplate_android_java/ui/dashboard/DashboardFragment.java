@@ -1,4 +1,4 @@
-package co.devskills.mobile_boilerplate_android_java.ui.dashboard;
+package io.alvalabs.mobile_boilerplate_android_java.ui.dashboard;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,8 +12,8 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import co.devskills.mobile_boilerplate_android_java.R;
-import co.devskills.mobile_boilerplate_android_java.databinding.FragmentDashboardBinding;
+import io.alvalabs.mobile_boilerplate_android_java.R;
+import io.alvalabs.mobile_boilerplate_android_java.databinding.FragmentDashboardBinding;
 
 public class DashboardFragment extends Fragment {
 
